@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".envrc"
+hash = "1d26c74fd25a4c3dbb09e029fc609588da499fd4af2a41c88f6316c7f8c54cf1"
+
+[[files]]
+file = "flake.lock"
+hash = "b549b08133c54a5741ef333a25a76484ea239a190afc16b8b75cb7194ace3599"
+
+[[files]]
+file = "flake.nix"
+hash = "75634f4a632d895bd44afd8588c8aac3b322a041b33dde51172e88b0fecc6c0d"
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "a1b123fa4c9cc0c4cf25c6ef33694cf6c94f9dd88388188f34feab9b6d367e2a"
 metafile = true
