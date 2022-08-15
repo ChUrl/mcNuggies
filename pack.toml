@@ -1,0 +1,13 @@
+name = "Mc Nuggies"
+author = "ChUrl"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e4c6c625ab0e066545f6ddc365a77c943275ec14f1fc00dcada0f4f68dadf9e8"
+
+[versions]
+fabric = "0.14.9"
+minecraft = "1.18.2"
