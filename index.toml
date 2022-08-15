@@ -123,11 +123,6 @@ hash = "80ececd3824fee3732b1b3907ffed32c0f8c8aa8537ac0f7d40b9537a073645a"
 metafile = true
 
 [[files]]
-file = "mods/cloth-config-legacy.pw.toml"
-hash = "ebb8d0a31f63dfb0d248ff7748cebe42913f5541bb0e2b44346ca4b5d1d7544d"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "3c184c5f2b8648c1106038d68ffece8f508dd3d4241b3d1e89080a0ed2d35b3e"
 metafile = true
@@ -188,8 +183,8 @@ hash = "7847bd14f2f3a22a1ce7def4b343a8e0f8a7dcb49bea59713e82a2f81e4159c3"
 metafile = true
 
 [[files]]
-file = "mods/cull-less-leaves.pw.toml"
-hash = "a4f1b4126dc3fdd6815012df939a60df9d4ae2721a2bc869d216b946ffe7b757"
+file = "mods/cull-leaves.pw.toml"
+hash = "2e010f43d6003d3d02b4c21527942074e17d53c9e1819185aa3bd91f503e81ab"
 metafile = true
 
 [[files]]
@@ -220,11 +215,6 @@ metafile = true
 [[files]]
 file = "mods/eating-animation-fabric.pw.toml"
 hash = "29972d6a7a844c37e018d18381299315f03a27c64f9c9d9da5439d3ce478063c"
-metafile = true
-
-[[files]]
-file = "mods/effective.pw.toml"
-hash = "f42b5d6e1351cd35715f392e2bd3db2914299297209ca4c5193143ddec836608"
 metafile = true
 
 [[files]]
@@ -320,6 +310,11 @@ metafile = true
 [[files]]
 file = "mods/inmis.pw.toml"
 hash = "1d0666c8b8bee80277b90ad9c10f0a743657894830bd2f1a5983c4b0013a8682"
+metafile = true
+
+[[files]]
+file = "mods/irisshaders.pw.toml"
+hash = "1ea04b482ec1a591ae19507ef5ae88c06270de3520f9ffc974d70e8d55b24de5"
 metafile = true
 
 [[files]]
@@ -510,11 +505,6 @@ metafile = true
 [[files]]
 file = "mods/rswires.pw.toml"
 hash = "721c3fda71dc555ebcde583a4fed2cf91de26fd94871c58619456fc3462f80a4"
-metafile = true
-
-[[files]]
-file = "mods/shoppy.pw.toml"
-hash = "d923d96ee33d529a1a48870830b5eefa56a240350c8dc22ee90179cb396f4e9f"
 metafile = true
 
 [[files]]
