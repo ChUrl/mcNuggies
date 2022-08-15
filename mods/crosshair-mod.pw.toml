@@ -1,0 +1,13 @@
+name = "Situational Crosshair"
+filename = "crosshairmod-0.4.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "215378ea4db0e162a35265b9bca9d60b58c975ee"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3846666
+project-id = 503343
