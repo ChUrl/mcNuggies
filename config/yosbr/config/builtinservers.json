@@ -1,0 +1,10 @@
+{
+  "badgeVisible": true,
+  "builtinServers": [
+    {
+      "name": "McNuggies",
+      "address": "78.159.100.153:19140",
+      "forced": false
+    }
+  ]
+}
