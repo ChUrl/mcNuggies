@@ -566,11 +566,6 @@ file = "mods/illuminations-1.10.4.jar"
 hash = "4e48338ae8b2b1c31e38e80b8e641225b2546df1fec40876428348b257507333"
 
 [[files]]
-file = "mods/illuminations.pw.toml"
-hash = "731c239ff8fb415c00c76856453aea3ad7a3082d78837daedbbf98c37279ce67"
-metafile = true
-
-[[files]]
 file = "mods/indium.pw.toml"
 hash = "b823831af9d57c2e6429bfd0cb51026658c507aa267dfdcaccccbe2d9c3f4a3a"
 metafile = true
@@ -828,11 +823,6 @@ metafile = true
 [[files]]
 file = "mods/winged-1.18.2-3.2.0.jar"
 hash = "aa4554b3f1d3867882f95de2fc911ca3c99122fc458e47a9ad35f59669fa65f6"
-
-[[files]]
-file = "mods/winged.pw.toml"
-hash = "2daf1739ea19c32d0953157489a02d9c19ec4dbc149f455210d476b52f3e2d84"
-metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
