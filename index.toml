@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/advancementinfo.pw.toml"
-hash = "a1b123fa4c9cc0c4cf25c6ef33694cf6c94f9dd88388188f34feab9b6d367e2a"
-metafile = true
-
-[[files]]
 file = "mods/ambient-environment.pw.toml"
 hash = "201213e3b6aed4bf6561d07fc73e2af0f472524a4cdad085481663e03146094c"
 metafile = true
@@ -13,11 +8,6 @@ metafile = true
 [[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "3bdcf466cdc775dcde1743e4b1e49b70018ef1b128384e6ad1b980ef97244b4e"
-metafile = true
-
-[[files]]
-file = "mods/animal-feeding-trough.pw.toml"
-hash = "d10a60c50e3c97962f004d875a7c663b3a0c72fe8b5b136381810460469c7277"
 metafile = true
 
 [[files]]
@@ -51,18 +41,8 @@ hash = "b807b54b5ddf544e895877d4c40e6f9a23536279f6ac8133f90098f28733d429"
 metafile = true
 
 [[files]]
-file = "mods/better-advancements.pw.toml"
-hash = "7beb2d053d2e6fc366a96c6ec4441484e91a7bf84f414eb39b309ea2026f2ebf"
-metafile = true
-
-[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "fe0fb406a9ba81b2e501d41db4606ed512687045e5c515481edc12b00119940e"
-metafile = true
-
-[[files]]
-file = "mods/betterf3.pw.toml"
-hash = "136b82bace3e2ffec39e8b7972b3c71aaafb54113b05db649366e9e7293e7e36"
 metafile = true
 
 [[files]]
@@ -98,11 +78,6 @@ metafile = true
 [[files]]
 file = "mods/cc-restitched.pw.toml"
 hash = "68d97d7c43f28d54f75e4acfdcfc05c3c963739d438892d8d84c68ebc9d181bf"
-metafile = true
-
-[[files]]
-file = "mods/chipped.pw.toml"
-hash = "5b959ed2914ad006d1ad11579656c8a263c9f4293e85c0931da104be20843a10"
 metafile = true
 
 [[files]]
@@ -211,11 +186,6 @@ hash = "9beb23673e56dc3765d2658807523883f7da9b9dabb860e3bbd070e3ffcf2a43"
 metafile = true
 
 [[files]]
-file = "mods/enchantment-descriptions.pw.toml"
-hash = "e555fc6193553393d2cb55efe723a2ed726329942627519762ba8886d573b751"
-metafile = true
-
-[[files]]
 file = "mods/enhanced-block-entities.pw.toml"
 hash = "26fc1b6eed34ae6c622682efd66c82c99e22027750c31853709255ed3d672902"
 metafile = true
@@ -223,11 +193,6 @@ metafile = true
 [[files]]
 file = "mods/entity-collision-fps-fix-fabric.pw.toml"
 hash = "ba23411d4fa6b8f25953c4aa6e88f49cb5f67fa29f2ac36348cb36fc42ac91e6"
-metafile = true
-
-[[files]]
-file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "20dd8853a5b18df0b2cf9f7efc241d69d20ee786fc17090b6153c3a453077a7c"
 metafile = true
 
 [[files]]
@@ -248,11 +213,6 @@ metafile = true
 [[files]]
 file = "mods/fabric-waystones.pw.toml"
 hash = "413d0984a3d66fa6b1136956a77ecafe70e0091ea24da4b016573ee3f1e06d0a"
-metafile = true
-
-[[files]]
-file = "mods/fabrishot.pw.toml"
-hash = "2e25280e924e9a871142a5a95f35016e04f0eba2c86f4b84815d5db009ed19f3"
 metafile = true
 
 [[files]]
@@ -286,6 +246,10 @@ hash = "60f6269fd7d2aa52defc49fc4963a6736581b341910c7e537c9dbcb97525f83c"
 metafile = true
 
 [[files]]
+file = "mods/illuminations-1.10.4.jar"
+hash = "4e48338ae8b2b1c31e38e80b8e641225b2546df1fec40876428348b257507333"
+
+[[files]]
 file = "mods/illuminations.pw.toml"
 hash = "731c239ff8fb415c00c76856453aea3ad7a3082d78837daedbbf98c37279ce67"
 metafile = true
@@ -298,6 +262,11 @@ metafile = true
 [[files]]
 file = "mods/inmis.pw.toml"
 hash = "1d0666c8b8bee80277b90ad9c10f0a743657894830bd2f1a5983c4b0013a8682"
+metafile = true
+
+[[files]]
+file = "mods/iris-flywheel-compat.pw.toml"
+hash = "9085b5ffe7dd1663966e6ffbb4495f2feaabe9d970d9a863d8dc0be129444bc0"
 metafile = true
 
 [[files]]
@@ -351,6 +320,11 @@ hash = "c5fef2f9b5aec665ad9c09712c0c9d88157ba2cf48ac19fd0eef30b00c97dd5b"
 metafile = true
 
 [[files]]
+file = "mods/logic-gates-fabric.pw.toml"
+hash = "b8c42da854b0539c0565a818cd3af7511245226b88b78f23384d79bc7a8e5783"
+metafile = true
+
+[[files]]
 file = "mods/macaws-bridges.pw.toml"
 hash = "ebbb66ec2c5d8ec1cbccccc9d93ed170409a0f4abaefda5dac0b921159ce5dac"
 metafile = true
@@ -393,11 +367,6 @@ metafile = true
 [[files]]
 file = "mods/macaws-windows.pw.toml"
 hash = "efae4449e802f00e3dd79446adcb305d43f3f2471e48ebde9e08ef531d95b434"
-metafile = true
-
-[[files]]
-file = "mods/main-menu-credits.pw.toml"
-hash = "198084fae4ff7ee526c4d1b82b82f36585445d2c07b5f1c82e4121724c81400f"
 metafile = true
 
 [[files]]
@@ -451,11 +420,6 @@ hash = "4a685ccd6e720cba65641cb9f6baf37e3d38b546dd6adaa4c97bad99daf5b042"
 metafile = true
 
 [[files]]
-file = "mods/online-detector.pw.toml"
-hash = "ad7638efacf25dc6893965e7e3e8365e395b5b3926d7d7d87e5bb9b5d59a9840"
-metafile = true
-
-[[files]]
 file = "mods/optigui.pw.toml"
 hash = "1ca96ec71e46c97fef13cce6c8ad0f0cedce7b1ed3039e7fd879b28e3f9408b9"
 metafile = true
@@ -493,11 +457,6 @@ metafile = true
 [[files]]
 file = "mods/rswires.pw.toml"
 hash = "721c3fda71dc555ebcde583a4fed2cf91de26fd94871c58619456fc3462f80a4"
-metafile = true
-
-[[files]]
-file = "mods/silkspawners.pw.toml"
-hash = "c7d5eecaf18282bd90271e2ab01a95451a07a48851072070bd07f4090cc94ec8"
 metafile = true
 
 [[files]]
@@ -551,6 +510,10 @@ hash = "1e2eb57cc344d6e87b2f46d6d6e0e7c77541e83f78a51313523f337acc700e50"
 metafile = true
 
 [[files]]
+file = "mods/winged-1.18.2-3.2.0.jar"
+hash = "aa4554b3f1d3867882f95de2fc911ca3c99122fc458e47a9ad35f59669fa65f6"
+
+[[files]]
 file = "mods/winged.pw.toml"
 hash = "2daf1739ea19c32d0953157489a02d9c19ec4dbc149f455210d476b52f3e2d84"
 metafile = true
@@ -588,3 +551,7 @@ metafile = true
 [[files]]
 file = "resourcepacks/Slightly-Improved-Font-1.0.0.zip"
 hash = "c14b3efb401c6aa58b96f480b42af3ed5026421365e778ee04c4e0a2b3fb7527"
+
+[[files]]
+file = "shaderpacks/ComplementaryShaders_v4.5.1.zip"
+hash = "f0806e5404074a51f3564327eb0735b27e11f68fa3b200134958dd8c4901ad5b"
